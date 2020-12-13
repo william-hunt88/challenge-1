@@ -4,9 +4,33 @@
     margin: 0;
 }
 
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
+/* Broad Strokes */
+
 body {
     background-color: #d9dcd6;
 }
+
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+p {
+    font-size: 16px;
+}
+
+/* Header */
 
 .header {
     padding: 20px;
@@ -41,14 +65,7 @@ body {
     margin-left: 25px;
 }
 
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-p {
-    font-size: 16px;
-}
+/* Hero */
 
 .hero {
     height: 800px;
@@ -59,47 +76,12 @@ p {
     background-position: center;
 }
 
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
+/* Services Offered*/
 
 .services {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
-}
-
-.benefits {
-    margin-right: 20px;
-    padding: 20px;
-    clear: both;
-    float: right;
-    width: 20%;
-    height: 100%;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #2589bd;
-}
-
-.benefit-details {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-details h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-details img{
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
 }
 
 .services-content {
@@ -119,6 +101,37 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/* Benefits of Services */
+
+.benefits {
+    margin-right: 20px;
+    padding: 20px;
+    clear: both;
+    float: right;
+    width: 20%;
+    height: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #2589bd;
+}
+
+.benefits-details {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+.benefits-details h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.benefits-details img{
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
+/* Footer */
 
 .footer {
     padding: 30px;
