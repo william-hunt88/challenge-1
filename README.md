@@ -14,6 +14,7 @@ I viewed the <title> element AND:
 Changed it to better represent the websites purpose.
 
 Aside from these main goals I:
+
 consolidated several CSS class style declarations, reducing duplicate code in my stylesheet. 
 
 took out several spaces which were causing some <p> elements to appear on 3 lines.
@@ -21,6 +22,8 @@ took out several spaces which were causing some <p> elements to appear on 3 line
 added the proper class to the "search engine optimization" section in order to fix the link in the nav bar.
 
 changed some class names to better represent the sections and content they were assigned to.
+
+rearranged the CSS delcarations into a more logical order and provided notes for context.
 
 
 
