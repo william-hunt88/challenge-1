@@ -25,6 +25,14 @@ changed some class names to better represent the sections and content they were 
 
 rearranged the CSS delcarations into a more logical order and provided notes for context.
 
+added this handy README.md to explain what I have changed.
+
+
+
+
+Link:
+https://william-hunt88.github.io/challenge-1-William.Hunt/#social-media-marketing
+
 
 
 
